@@ -6,6 +6,9 @@
 <li>Section 기반 Infinite Scroll 구조와 화면 상태 동기화를 설계하여 사용자 경험과 서비스 품질을 함께 개선해왔습니다.</li>
 </ul>
 
+
+<!--
 <h4> 기술 스택 </h4>
 
 <div align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </div>
+-->
